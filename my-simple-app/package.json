@@ -2,7 +2,7 @@
   "name": "my-simple-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shubhampawar0151.github.io/MyReactAPP",
+  "homepage": "https://shubhampawar0151.github.io/MyReactAPP/my-simple-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
